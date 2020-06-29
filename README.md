@@ -11,6 +11,11 @@ Included is the code necessary to replicate the Seurat objects used for analysis
   - where multiple version of Seurat are used this has been noted.
   - Seurat V2.3.4 source package can be downloaded here from [CRAN Archive](https://cran.r-project.org/src/contrib/Archive/Seurat/) and installed from local source.
 
+Code included in repository.
+- 200629_demultiplexing_mathys_TD.R - demultiplexing code prepared by Taitea Dukstra (TD)
+- 200629_mathys_reanalysis_JSS.R - analysis code prepared by Jessica Sadick (JSS)
+
+
 ## Data
 ### Original Data
 The data analyzed in this project can be directly downloaded from the following source.
