@@ -4,12 +4,12 @@
 #### Code used to re-analyze published single cell RNASeq (scRNAseq) astrocyte data included in:
 Liddelow SA, Marsh SE, Stevens B. [Microglia and astrocytes in health and disease: Dynamic Duo or Partners in Crime?](citation)
 
+
 ## Code
 Included is the code necessary to replicate the Seurat objects used for analysis and plotting.
 
 
-## Data
-### Original Data
+## Original Data
 The data in this project can be directly downloaded from the following sources.
 
 - [Mathys et al., 2019 (Nature)](https://www.nature.com/articles/s41586-019-1195-2), PMID: [31042697](https://pubmed.ncbi.nlm.nih.gov/31042697/), Human, snRNAseq (10X 3' V2), [syn18485175](https://adknowledgeportal.synapse.org/Explore/Studies/DetailsPage?Study=syn18485175)
