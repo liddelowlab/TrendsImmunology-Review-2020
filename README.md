@@ -2,7 +2,7 @@
 
 
 #### Code used to re-analyze published single cell RNASeq (scRNAseq) astrocyte data included in:
-Liddelow SA, Marsh SE, Stevens B. [Microglia and astrocytes in health and disease: Dynamic Duo or Partners in Crime?](citation)
+Liddelow SA, Marsh SE, Stevens B (2020) [Microglia and astrocytes in disease: dynamic duo or partners in crime?](https://www.sciencedirect.com/science/article/pii/S1471490620301551?via%3Dihub) <i>Trends Immunol</i> 41(9):820-835. PMID: [32819809](https://pubmed.ncbi.nlm.nih.gov/32819809/).
 
 
 ## Code
